@@ -1,0 +1,2 @@
+set IotHubConnectionString = 'HostName=techniazhub.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=R6uWEfu3vc6Z08Y5VaZ6KgdaITh5wC+MDUzwVKnO3UA='
+set EventHubConsumerGroup = 'testioteventhub'
